@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425281115650",
+    "project_id": "flutter-9dead",
+    "storage_bucket": "flutter-9dead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425281115650:android:282f3e13d0c99f732b391b",
+        "android_client_info": {
+          "package_name": "com.example.nexchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIYtwcTcsYaVta76nmZZUFeALrdNOuQkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
