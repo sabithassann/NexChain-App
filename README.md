@@ -1,6 +1,55 @@
 # NexChain App
  Springboot Project Flutter Application
 
+ # Supply Chain and Logistic App
+ Developed a Flutter application named NexChain, leveraging my Spring Boot project as the 
+ backend. The Spring Boot project focused on supply chain and logistic system management. 
+
+-----------------   ---------------------------------------------
+## Features
+
+- Supplier Management: Addition of suppliers, Adding of raw materials.
+- Search and Download: Capability to search and download payment information.
+- Stock Management: Viewing detailed stock information, tracking warehouse pending status.
+- Warehouse Operations: Scanning warehouse details, monitoring warehouse status.
+- Product Management: Addition, listing, editing, and deletion of products, along with search 
+  functionality.
+- Mapping: Integration of map feature for location-based services.
+
+
+
+## Technologies used:-
+### Front-End Development:
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+### Back-End Development
+<p align="left">
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+</p>
+
+
+
+
+**==== Software And Tools Required ======**
+- :  MySQL
+- :  IntelliJ IDEA
+- :  Android Studio
+- :  Spring Initializer
+- :  Java JDK 17+
+
  |Features| | |
 | :---: | :---: | :---: |
 | Login | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/login_1.jpg) | :pushpin:Dashboard:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/dashboard_2.png) |
