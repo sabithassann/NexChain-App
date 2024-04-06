@@ -1,2 +1,20 @@
 # NexChain App
  Springboot Project Flutter Application
+
+ |Featurs|Employee|Admin|
+| :---: | :---: | :---: |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/login_1.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/dashboard_2.png) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/supplier_3.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/supplier_add_4.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/rawmaterial_5.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/rawmaterial_add_6.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/payment_7.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/print_sent_8.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/stockdetails_9.png) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/employeelist_10.png) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/employeeList_with_11.png) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/warehouse_12.png) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/warehouse_scan_13.png) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/warehouse_status_pending_mobile_13.png) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/ware_mobile_14.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/ware_mobile_15.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/ware_mobile_16.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/scan_result_17.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/warehouse_status_update_17.png) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/warehouse_approved_mobile_18.png) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_18.png) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_optin_19.png) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_map_20.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_21.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_22.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_23.jpg) |
+| Welcome | :pushpin: Welcome:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_24.jpg) | :pushpin: Splash screen:![ start up](https://github.com/sabithassann/NexChain-App/blob/main/flutter_nexchain_screen/menu_25.jpg) |
+
